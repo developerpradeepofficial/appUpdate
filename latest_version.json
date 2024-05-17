@@ -1,0 +1,5 @@
+{
+  "version": "2.0.0",
+  "url": "https://yourserver.com/downloads/yourapp-v2.0.0.apk",
+  "releaseNotes": "This update includes:\n- New feature XYZ\n- Improvements to ABC\n- Bug fixes and performance enhancements"
+}
